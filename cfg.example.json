@@ -1,0 +1,14 @@
+{
+	"instance": [{
+		"enabled": true,
+		"hostname": "flume01",
+		"step": 60,
+		"metric_url": "http://127.0.0.1:30000/metrics",
+		"tags": "port=30000"
+	}],
+	"transfer": {
+		"enabled": true,
+		"addrs": "127.0.0.1:8433",
+		"timeout": 10
+	}
+}
