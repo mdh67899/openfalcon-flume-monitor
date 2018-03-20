@@ -5,10 +5,7 @@ open-falcon flume监控脚本
 --------------------------------
 操作系统：Linux
 
-Python >= 2.6
-
-python-requests
-
+golang
 
 主要逻辑
 --------------------------------
